@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+}
+body{
+  background-image: url("pxfuel.jpg");
+  background-repeat: repeat-y, repeat-y;
+  background-position: left, right;
+  background-attachment: fixed, fixed
+}
+.h1{
+  margin-left: 950px;
+  background-color: yellow;
+  border: 5px solid #9802e3;
+  margin-top: 10px;
+  padding-left: 5px;
+}
+.il{
+  background-color: yellow;
+  background-size: 50px;
+  color: black;
+  float: left;
+  padding: 25px;
+  padding-right: 35px;
+  margin: 0px;
+  width: 50px;
+  text-align: center;
+  border: 3px solid #9802e3;
+}
+.none{
+  text-decoration: none;
+}
+.il:hover{
+  background-color: #9802e3;
+  border: 3px solid yellow;
+}
+.p1{
+  margin-top: 100px;
+  margin-left: 460px;
+  font-size: 30px;
+  text-align: center;
+  background-color: yellow;
+  border: 5px solid #9802e3;
+  width: 500px;
+}
